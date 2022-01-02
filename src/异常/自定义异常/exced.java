@@ -1,6 +1,4 @@
-package 自定义异常;
-
-import java.security.UnresolvedPermission;
+package 异常.自定义异常;
 
 public class exced extends Exception{
     public exced(){}

@@ -1,4 +1,4 @@
-package 自定义异常;
+package 异常.自定义异常;
 
 public class demo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package 多态;
+package 异常.多态;
 
 public class main {
     public static void main(String[] args) {

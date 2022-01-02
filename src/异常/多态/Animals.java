@@ -1,4 +1,4 @@
-package 多态;
+package 异常.多态;
 
 public class Animals {
     public String name;
