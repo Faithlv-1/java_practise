@@ -1,5 +1,7 @@
 package 字节流;
-
+/*
+未使用缓冲
+ */
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
